@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="91e0f1b383598714cbca74b6feaad315" sys_domain="global" table="x_2056113_smart_0_faculty" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>faculty_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>8e190637831d8714cbca74b6feaad3a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>46190637831d8714cbca74b6feaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hod</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>c2190637831d8714cbca74b6feaad3aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>42190637831d8714cbca74b6feaad3ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>casual_leave_balance</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>ce190637831d8714cbca74b6feaad3ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>4e190637831d8714cbca74b6feaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>ca190637831d8714cbca74b6feaad3ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sick_leave_balance</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>4a190637831d8714cbca74b6feaad3ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>c6190637831d8714cbca74b6feaad3af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 18:06:58</sys_created_on>
+            <sys_id>46190637831d8714cbca74b6feaad3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2056113_smart_0_faculty" sys_domain="global" view="Default view">91e0f1b383598714cbca74b6feaad315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 18:06:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_2056113_smart_0_faculty</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 16:21:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91e0f1b383598714cbca74b6feaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2056113_smart_0_faculty</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Smart Faculty Leave Management" source="x_2056113_smart_0">17ff653383598714cbca74b6feaad3f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Smart Faculty Leave Management">17ff653383598714cbca74b6feaad3f2</sys_scope>
+            <sys_update_name>sys_ui_section_91e0f1b383598714cbca74b6feaad315</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 16:21:14</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

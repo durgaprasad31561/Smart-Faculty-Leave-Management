@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b4e0b1b383598714cbca74b6feaad3bf" label="Faculty" max_length="40" name="x_2056113_smart_0_faculty" type="collection">
+        <element label="Faculty ID" max_length="20" name="faculty_id" type="string"/>
+        <element default="10" label="Sick Leave Balance" max_length="255" name="sick_leave_balance" type="integer"/>
+        <element label="HOD" max_length="32" name="hod" reference="x_2056113_smart_0_faculty" type="reference"/>
+        <element choice="3" label="Department" max_length="40" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSE-3" sequence="2" value="cse_3"/>
+                <element inactive_on_update="false" label="CSE-4" sequence="3" value="cse_4"/>
+                <element inactive_on_update="false" label="CSE-2" sequence="1" value="cse_2"/>
+                <element inactive_on_update="false" label="CSE-1" sequence="0" value="cse_1"/>
+            </choice>
+        </element>
+        <element default="12" label="Casual Leave Balance" max_length="255" name="casual_leave_balance" type="integer"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="Email" max_length="100" name="email" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <index name="index">
+            <element name="hod"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
